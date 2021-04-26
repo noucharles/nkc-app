@@ -23,6 +23,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.noucharles.nkcapp",
+      "config": {
+        "googleMaps": { "apiKey": "AIzaSyCetvo8hI5YiQwpa5xcQy0VbS0gwcuQkJE" }
       }
     },
     "web": {
